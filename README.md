@@ -1,3 +1,7 @@
+## Parcours français
+
+Une [lecture guidée de L1Read, L1Write et des invariants HyperEVM–HyperCore](docs/fr/README.md) documente les frontières de confiance et les contrôles d’intégration.
+
 # HypeEVM Tools
 
 Solidity libraries for building on [HyperEVM](https://hyperliquid.gitbook.io/hyperliquid-docs/hyperevm).
